@@ -12,7 +12,6 @@ My default is curious. With a background spanning economics, data-driven strateg
 | **[Enertool](https://github.com/tomas10k/enertool)** | [enertool.app](https://enertool.app) | Energy & macro pulse (`ERCOT`, `PJM`, rates, FX), daily intelligence brief, and company/market tracker. |
 | **[Sobremesa Dinners](https://github.com/tomas10k/sobremesa-dinners)** | [sobremesadinners.com](https://sobremesadinners.com) | Bilingual (*ES/EN*) community platform managing event cohorts, speaker/student applications, and photo recaps. |
 | **Foundations of Agentic AI** | — | Multi-agent workflows, tool-use pipelines, and automated research experiments (pinned below). |
-| **[Wedding Croquis](#)** | — | Custom interactive venue layout and seating map built for my wedding. |
 
 ---
 
