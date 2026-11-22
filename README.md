@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hey there, I'm Tomás 👋
 
-<!--
-**tomas10k/tomas10k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Builder · Strategy & Analytics · Energy & Applied AI**
 
-Here are some ideas to get you started:
+My default is curious. With a background spanning economics, data-driven strategy, clean energy, and early-stage tech (**UC Berkeley Haas MBA `'27`**), I use code to turn messy information into clear decisions and ship practical products from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔨 Selected Projects
+| Project | Live Site | Overview |
+| :--- | :--- | :--- |
+| **[Enertool](https://github.com/tomas10k/enertool)** | [enertool.app](https://enertool.app) | Energy & macro pulse (`ERCOT`, `PJM`, rates, FX), daily intelligence brief, and company/market tracker. |
+| **[Sobremesa Dinners](https://github.com/tomas10k/sobremesa-dinners)** | [sobremesadinners.com](https://sobremesadinners.com) | Bilingual (*ES/EN*) community platform managing event cohorts, speaker/student applications, and photo recaps. |
+| **Foundations of Agentic AI** | — | Multi-agent workflows, tool-use pipelines, and automated research experiments (pinned below). |
+| **[Wedding Croquis](#)** | — | Custom interactive venue layout and seating map built for my wedding. |
+
+---
+
+#### 🌐 Elsewhere
+* **Website & Experience:** [tomasdc.com](https://tomasdc.com)
+* **Interests:** Applied AI · Clean Energy & Infrastructure · Product & Growth · Outdoors & Photography
