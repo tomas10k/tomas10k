@@ -11,7 +11,7 @@ My default is curious. With a background spanning economics, data-driven strateg
 | :--- | :--- | :--- |
 | **[Enertool](https://github.com/tomas10k/enertool)** | [enertool.app](https://enertool.app) | Energy & macro pulse (`ERCOT`, `PJM`, rates, FX), daily intelligence brief, and company/market tracker. |
 | **[Sobremesa Dinners](https://github.com/tomas10k/sobremesa-dinners)** | [sobremesadinners.com](https://sobremesadinners.com) | Bilingual (*ES/EN*) community platform managing event cohorts, speaker/student applications, and photo recaps. |
-| **[AI Lab](ttps://github.com/tomas10k/ai-lab)** | — | Multi-agent workflows, tool-use pipelines, and automated research experiments (pinned below). |
+| **[AI Lab](https://github.com/tomas10k/ai-lab)** | — | Multi-agent workflows, tool-use pipelines, and automated research experiments (pinned below). |
 
 ---
 
